@@ -46,29 +46,29 @@ I'm a university student passionate about technology and software development. I
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alradulescu&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alradulescu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alradulescu&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Project Name 1](https://github.com/alradulescu/project-1)
+### [Project Name 1](https://github.com/[your-username]/project-1)
 Brief description of your project, what it does, and what technologies you used.
 - **Tech Stack:** Technology1, Technology2, Technology3
 - **Highlights:** Key features or achievements
 
-### [Project Name 2](https://github.com/alradulescu/project-2)
+### [Project Name 2](https://github.com/[your-username]/project-2)
 Brief description of your project, what it does, and what technologies you used.
 - **Tech Stack:** Technology1, Technology2, Technology3
 - **Highlights:** Key features or achievements
 
-### [Project Name 3](https://github.com/alradulescu/project-3)
+### [Project Name 3](https://github.com/[your-username]/project-3)
 Brief description of your project, what it does, and what technologies you used.
 - **Tech Stack:** Technology1, Technology2, Technology3
 - **Highlights:** Key features or achievements
@@ -99,7 +99,7 @@ Brief description of your project, what it does, and what technologies you used.
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alradulescu&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=[your-username]&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
 <div align="center">
